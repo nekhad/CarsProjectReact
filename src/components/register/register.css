@@ -1,0 +1,24 @@
+
+.register-cont{
+    width: 50%;
+    margin: 5% auto;
+    border: 1px solid cyan;
+    padding: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  .register-inps{
+    padding: 3px;
+    width: 50%;
+    border-radius: 10px;
+  }
+  .register-btn{
+    margin-left: 10%;
+    width: 50%;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+  }
+  
